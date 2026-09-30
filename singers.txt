@@ -1,0 +1,5 @@
+ID=34
+FirstName=Марія
+LastName=Мельник
+Experience=5 років
+SewingType=взуття

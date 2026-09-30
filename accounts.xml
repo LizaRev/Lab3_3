@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <OwnerCode>89</OwnerCode>
+    <Amount>9086</Amount>
+  </Account>
+  <Account>
+    <OwnerCode>800</OwnerCode>
+    <Amount>614</Amount>
+  </Account>
+  <Account>
+    <OwnerCode>78</OwnerCode>
+    <Amount>90000</Amount>
+  </Account>
+  <Account>
+    <OwnerCode>56</OwnerCode>
+    <Amount>7655</Amount>
+  </Account>
+</ArrayOfAccount>

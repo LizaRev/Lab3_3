@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Singer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>345</ID>
+  <FirstName>Ілона</FirstName>
+  <LastName>Коваленко</LastName>
+  <SongType>90</SongType>
+  <SongCount>80</SongCount>
+</Singer>
